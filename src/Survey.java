@@ -3,9 +3,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Spykexx on 8/10/2017.
- */
 class Survey extends JFrame { // survey class
     static int userNumber = 0;  //Here I create all private variables, arrays for JFrame, and elements.
     String surveyTitle = "";

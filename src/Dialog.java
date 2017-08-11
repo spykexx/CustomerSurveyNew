@@ -3,9 +3,6 @@ import java.awt.*;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 
-/**
- * Created by Spykexx on 8/10/2017.
- */
 class Dialog extends JDialog {
     private JPanel MP; //declare all panels
     private JPanel RP;

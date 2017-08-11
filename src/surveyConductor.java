@@ -1,8 +1,5 @@
 import javax.swing.*;
 
-/**
- * Created by Spykexx on 8/10/2017.
- */
 class surveyConductor{
     public surveyConductor(){
         String sTitle = JOptionPane.showInputDialog("Please Enter Title"); //ask user for title
